@@ -1,7 +1,10 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Android Gradle Upgrade Notification" displayType="NONE" />
     <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="Machine Learning-Assisted Completion" displayType="NONE" />
+    <notification groupId="Update Kotlin code style" displayType="NONE" />
   </component>
 </application>
